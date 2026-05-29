@@ -6,4 +6,4 @@
 
 To **separate** sentences and place them on a new line, either use backslash right after the sentence ends, or press enter twice\
 
-![Spongebob seems crazy and is driving a car](spongecover1.jpg)
+![Spongebob seems crazy and is driving a car](spongecover1.png)
